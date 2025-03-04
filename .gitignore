@@ -1,0 +1,20 @@
+# Windows-spezifische Dateien
+AppData/
+NTUSER.DAT*
+Recent/
+SendTo/
+Startmenü/
+Vorlagen/
+Druckumgebung/
+Lokale Einstellungen/
+Netzwerkumgebung/
+
+# Linux/Mac-spezifische Dateien
+.ssh/
+.bash_history
+.config/
+.docker/
+.vscode/
+.VirtualBox/
+.vagrant.d/
+
