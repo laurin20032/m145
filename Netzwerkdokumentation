@@ -1,0 +1,59 @@
+# Netzwerkdokumentation
+
+## 1. Wie lautet die Netzwerkadresse vom Standort Samedan?
+**Antwort:** 192.168.3.0/24  
+
+## 2. Auf welcher IP-Adresse befindet sich der AccessPoint in Bellinzona?
+**Antwort:** 192.168.4.30  
+
+## 3. In welchem VLAN befinden sich die Arbeitsplatz-PCs?
+**Antwort:** VLAN-2  
+
+## 4. Über welche IP-Adresse erreicht man den Manageable-Switch am Standort Chur?
+**Antwort:** 192.168.2.253  
+
+## 5. Welche IP-Adressen LAN-seitig und tunnelseitig ist der VPN-Gateway am Standort Bellinzona konfiguriert?
+**Antwort:**
+- LAN: 192.168.4.1  
+- VPN: 172.200.4.2/24  
+
+## 6. Wie lautet der am Standort Samedan an den Arbeitsplatz-PCs eingetragene Standardgateway?
+**Antwort:** 192.168.3.1  
+
+## 7. Ein Aussendienstmitarbeiter benötigt Zugriff auf das Firmennetzwerk. Wie muss er seine VPN-SW IP-mässig konfigurieren?
+**Antwort:** 82.4.12.158  
+
+## 8. Wer hat im Büro CAD Wasserbau die VoIP-Telefone installiert?
+**Antwort:** Swisscom  
+
+## 9. Wann wurde im Bistro der AccessPoint installiert?
+**Antwort:** 23.7.14  
+
+## 10. Der IT-Mitarbeiter Rene Sauter (rsauter) verlässt die Firma. Welche Arbeiten bzw. Verantwortlichkeiten sind davon betroffen? Wenn würden sie als zukünftigen Ansprechpartner bei Problemen vorschlagen?
+**Antwort:**  
+Sowohl die Arbeitsplätze als auch die Access Points sind betroffen. Da Blaeuchli auch für die Installation dieser Komponenten verantwortlich war, könnte er eine geeignete Alternative sein.  
+
+## 11. Wieviele RJ45-Steckdosen stehen ihnen im Bauleiterbüro zur Verfügung und wieviele davon sind zurzeit noch nicht belegt?
+**Antwort:**
+- 8 RJ45-Steckdosen verfügbar  
+- 2 noch nicht belegt  
+
+## 12. Im Büro CAD Tiefbau muss ein weiteres VoIP-Telefon zur Verfügung stehen. Wie soll diese Verbindung gepatched werden? Verlangt wird die Patchpanelbelegung und der Switch-Port.
+**Antwort:**  
+- Patchpanel E2  
+- Port 2  
+
+## 13. Im Bistro soll eine Projektpräsentation stattfinden. Dafür muss ein Ethernetkabelverbindung bereitgestellt werden.
+**Antwort:** 3 Ports sind frei  
+
+## 14. Im Büro CAD Wasserbau soll temporär ein weiterer Arbeitsplatz eingerichtet werden. Wie werden sie diese Aufgabe lösen?
+**Antwort:** WLAN auf dem Client verbinden  
+
+## 15. Wieviele Switches stehen ihnen am Standort Chur zur Verfügung?
+**Antwort:** 2 Switches  
+
+## 16. Frau Sommer arbeitet an der CAD-Workstation und meldet ihnen, dass sie keine Verbindung ins Internet mehr hat. Was werden sie überprüfen?
+**Antwort:** LAN Kabel, DNS Server, Router  
+
+## 17. Wie lautet die SSID des Churer-AccessPoint?
+**Antwort:** Vivo XL
